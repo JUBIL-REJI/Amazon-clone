@@ -1,1 +1,1 @@
-react - amazon  clone with add to cart functionalty with redux
+react  - simple  amazon  clone with add to cart functionalty with redux
